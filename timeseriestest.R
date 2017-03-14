@@ -1,6 +1,4 @@
-setwd("C:/Users/Sethuram.Kishore/Desktop/Data Science/Jigsaw/Time Series/test")
-
-###read data
+###read data, sample file attached to the Repositry
 
 data<-read.csv("visits.csv")
 
